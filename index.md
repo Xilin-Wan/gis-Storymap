@@ -18,10 +18,10 @@ At the end of this workshop, you will be able to:
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
+| 0:05 | Introduction of ArcGIS online and Storymap|  
+| 0:15 | Functions of Storymap|
+| 0:30 | Example Background|   
+| 0:45 | Step by Step Example|
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
